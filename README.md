@@ -1,6 +1,6 @@
 # Dependency injection example
 
-Implementation of dependency injection pattern with inversion of control.
+Implementation of dependency injection pattern with inversion of control, for education purpose.
 
 ## Requirements
 
